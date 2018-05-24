@@ -9,5 +9,6 @@
     </parent>
     <artifactId>social-facebook</artifactId>
     <packaging>jar</packaging>
+    <version>1.0</version>
     <name>Social facebook</name>
 </project>
